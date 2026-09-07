@@ -573,6 +573,10 @@
     .design-skill-sub-section {
         grid-template-columns: repeat(1, 1fr);
     }
+    .portfolio-girl-img {
+        width: 240px;
+        height: 240px;
+    }
 }
 @media (max-width: 420px) {
     .about-detail {
